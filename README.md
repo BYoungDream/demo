@@ -7,3 +7,4 @@ java各种技术点实例
 <div style="color:red; border:solid 1px #ddd; padding:10px; margin-bottom:10px;     background-color: #eff3f5;">
 注：pinpoint hbase数据库持久化请联系管理员创建pv，如临时查看pinpoint系统，请设置持久化为false
 </div>
+
